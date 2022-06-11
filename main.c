@@ -1,5 +1,7 @@
 #include "std.h"
 
+//учебная программа
+
 int main()
 {
 
